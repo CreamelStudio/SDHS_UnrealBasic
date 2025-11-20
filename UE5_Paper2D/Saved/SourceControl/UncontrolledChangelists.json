@@ -7,6 +7,8 @@
 			"files": [
 				"/Users/creamel/Documents/Github/SDHS_UnrealBasic/UE5_Paper2D/Content/Blueprints/BP_knight.uasset",
 				"/Users/creamel/Documents/Github/SDHS_UnrealBasic/UE5_Paper2D/Content/Blueprints/EDirection.uasset",
+				"/Users/creamel/Documents/Github/SDHS_UnrealBasic/UE5_Paper2D/Content/Blueprints/IA_Attack.uasset",
+				"/Users/creamel/Documents/Github/SDHS_UnrealBasic/UE5_Paper2D/Content/Blueprints/IMC_default.uasset",
 				"C:/Users/user/Documents/Unreal Projects/UE5_Paper2D_2/Content/Maps/DevMap.umap",
 				"C:/Users/user/Documents/Unreal Projects/UE5_Paper2D_2/Content/Maps/BG.uasset",
 				"C:/Users/user/Documents/Unreal Projects/UE5_Paper2D_2/Content/Sprite/BG.uasset",
